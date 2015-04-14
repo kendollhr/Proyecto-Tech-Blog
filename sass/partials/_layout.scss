@@ -1,0 +1,28 @@
+
+.header-global{
+	overflow: hidden;
+	padding: 2px 0 122px 0;
+}
+
+.tech-content{
+	padding:0 10%;
+	background: $white;
+	div{
+		box-sizing: border-box;
+	}
+}
+
+.social-networks-news{
+	display: inline-block;
+  	float: right;
+  	width: 40%;
+}
+
+.footer{
+	position: absolute;
+  	width: 100%;
+}
+
+.social-networks-suscription{
+	width: 380px;
+}

@@ -1,0 +1,15 @@
+.navigation-menu{
+	margin:0 10%;
+	
+	li{
+		float: left;
+		display: inline;
+		margin: 0 1%;
+  		font-size: 16px;
+  		padding: 5px;
+		background-color: $color3;
+	}
+	a{
+		color: $white;
+	}
+}

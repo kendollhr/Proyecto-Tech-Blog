@@ -1,0 +1,45 @@
+.social-networks-suscription{
+	h2{
+		color: $color1;
+		border-bottom: 3px solid $color1;
+		margin:100px 0 20px;
+		@include font-size(18);
+	}
+	h3{
+	@include font-size(15);
+	border-bottom: 1px solid #000;
+  	margin: 5px 0 10px;
+	}
+
+	.text{
+		padding: 15px 0;
+	}
+}
+
+.other-news{
+	color: $color4;
+}
+
+.social-networks-publicity{
+	padding-top: 30px;
+  	margin-left: 30px;
+	width: 300px;
+  	height: 220px;
+}
+
+.example-square{
+	width: 300px;
+  	height: 220px;
+  	background: #999;
+}
+
+.social-networks-notice{
+	p{
+		font-weight: 600;
+	}
+}
+
+.notice-other-container{
+	padding: 25px 0 20px;
+  	border-bottom: 1px solid #000;
+}

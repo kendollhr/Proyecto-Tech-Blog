@@ -1,0 +1,35 @@
+.footer {
+  	height: 100px;
+	text-align: center;
+	background-color: #c0c0c0;
+  	top: 1760px;
+	ul{
+		float: left;
+		li{
+			display: inline-block;
+  			padding: 0 15px;
+			display: inline-block;
+			a{
+				color: #777;
+			}
+		}
+	}
+}
+
+.footer-content{
+	padding-top: 40px;
+	width: 1015px;
+  	margin: 0 auto;
+}
+
+.footer-title{
+	color: #777;
+	font-weight: bold;
+}
+
+.footer-networks{
+	float: right;
+	p{
+		display: inline-block;
+	}
+}
